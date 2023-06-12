@@ -1,0 +1,8 @@
+/node_modules/
+/out/
+/my-app/
+/dist/
+
+*.js
+/test_gamepath/
+/.env
